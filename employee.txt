@@ -1,0 +1,4 @@
+30597,fabio,hany,fabiohany,fabio123,13.ainshams saabsaleh,hr,Helwan,2000,6000,6000
+86697,Fady,samir,fady,fady123,cairo,manager,china iu CS,2003,4000,4000
+71344,ahmed,khaled,ahmed,ahmed321,12.madinty.cairo,cmo,AUC,2006,3000,3000
+64625,samy,salah,samy@gmail.com,123987456,shobra,cfo,asu,2002,10000,10000

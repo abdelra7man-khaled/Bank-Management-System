@@ -1,0 +1,4 @@
+57557,youssef,nabil,youssef,12345,990740344,125525566,19.syaeda zaynab,Current,9500,220,01/24
+49358,abdo,khaled,abdo@gmail.com,123456987456abdo,958715445,1002849120,cairo,Current,109500,941,02/30
+79314,ali,sameh,ali@gmail,12345,198292820,110247986,october,Current,500,572,11/25,Saving,0,739,11/27
+73647,ebrahim,mohamed,ebrahim@gmail.com,hima123789#$,908682823,113465794,madyna nasr,Current,500000,203,01/28,Saving,0,563,10/27

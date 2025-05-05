@@ -1,0 +1,10 @@
+Time_Stamp: 2023/12/23 00:02:44, Transaction_Id: 1819451885, Owner: besho, Source_Account: 602191026, Destination_Account: N/A, Amount_Money: 602191026, Transaction_Type: DEPOSIT, Transaction_State: true
+Time_Stamp: 2023/12/23 00:04:11, Transaction_Id: 1819364512, Owner: besho, Source_Account: 602191026, Destination_Account: N/A, Amount_Money: 500, Transaction_Type: WITHDRAWAL, Transaction_State: true
+Time_Stamp: 2023/12/23 00:04:40, Transaction_Id: 1819335173, Owner: besho, Source_Account: 602191026, Destination_Account: 427928574, Transferred to: youssef, Amount_Money: 9500, Transaction_Type: TRANSFER, Transaction_State: true
+Time_Stamp: 2023/12/23 08:04:48, Transaction_Id: 1790527495, Owner: abdo@gmail.com, Source_Account: 448016287, Destination_Account: N/A, Amount_Money: 5000, Transaction_Type: DEPOSIT, Transaction_State: true
+Time_Stamp: 2023/12/23 08:06:46, Transaction_Id: 1790410361, Owner: abdo@gmail.com, Source_Account: 448016287, Destination_Account: N/A, Amount_Money: 5000, Transaction_Type: DEPOSIT, Transaction_State: true
+Time_Stamp: 2024/01/02 00:19:50, Transaction_Id: 954426110, Owner: abdo@gmail.com, Source_Account: 958715445, Destination_Account: N/A, Amount_Money: 10000, Transaction_Type: DEPOSIT, Transaction_State: true
+Time_Stamp: 2024/01/02 00:21:02, Transaction_Id: 954353774, Owner: abdo@gmail.com, Source_Account: 958715445, Destination_Account: N/A, Amount_Money: 5002, Transaction_Type: WITHDRAWAL, Transaction_State: true
+Time_Stamp: 2024/01/02 00:21:45, Transaction_Id: 954310022, Owner: abdo@gmail.com, Source_Account: 958715445, Destination_Account: 198292820, Transferred to: ali@gmail, Amount_Money: 500, Transaction_Type: TRANSFER, Transaction_State: true
+Time_Stamp: 2024/01/06 01:36:41, Transaction_Id: 604214146, Owner: ebrahim@gmail.com, Source_Account: 908682823, Destination_Account: N/A, Amount_Money: 600000, Transaction_Type: DEPOSIT, Transaction_State: true
+Time_Stamp: 2024/01/06 01:37:43, Transaction_Id: 604152494, Owner: ebrahim@gmail.com, Source_Account: 908682823, Destination_Account: 958715445, Transferred to: abdo@gmail.com, Amount_Money: 100000, Transaction_Type: TRANSFER, Transaction_State: true
